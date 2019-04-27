@@ -1,0 +1,33 @@
+{
+  "name": "vef",
+  "version": "1.0.0",
+  "private": false,
+  "scripts": {
+    "start": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "element-ui": "^2.5.4",
+    "js-cookie": "^2.2.0",
+    "lodash": "^4.17.10",
+    "nprogress": "^0.2.0",
+    "screenfull": "^3.3.2",
+    "vue": "^2.5.16",
+    "vue-router": "^3.0.1",
+    "vuex": "^3.0.1",
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.0.0-rc.5",
+    "@vue/cli-plugin-eslint": "^3.0.0-rc.5",
+    "@vue/cli-service": "^3.0.0-rc.5",
+    "@vue/eslint-config-standard": "^3.0.0-rc.5",
+    "element-theme-chalk": "^2.4.5",
+    "less": "^3.0.4",
+    "less-loader": "^4.1.0",
+    "mockjs": "^1.0.1-beta3",
+    "vue-template-compiler": "^2.5.21"
+  }
+}
